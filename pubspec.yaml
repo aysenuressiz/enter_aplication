@@ -10,6 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  logger: ^1.0.0
   cupertino_icons: ^1.0.2
 
 dev_dependencies:
@@ -22,3 +23,7 @@ flutter:
 
   assets:
     - images/flutter.png
+    - images/tablet.jpg
+    - images/telefon.jpg
+    - images/lenovo.jpg
+    - images/huma.jpg
